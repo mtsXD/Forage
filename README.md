@@ -6,4 +6,4 @@ Alguns vou deixar um passo a passo para demonstrar os métodos que usei.
 
 projeto | conclusão
 --------|----------
-[MasterCard](https://github.com/MateusBSS/Forage/tree/main/MasterCard) | Forage 07/02/2024
+[MasterCard](https://github.com/MateusBSS/Forage/tree/main/MasterCard) | 07/02/2024
