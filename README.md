@@ -6,5 +6,6 @@
  Caso queiram debater algo, meu [linkedin](https://www.linkedin.com/in/mateustm).
 
 projeto | conclusão
---------|----------
+:--------:|:----------:
 [MasterCard](https://github.com/MateusBSS/Forage/tree/main/MasterCard) | 07/02/2024
+[ANZ](https://github.com/mtsXD/Forage/tree/main/ANZ) | 16/02/2024
